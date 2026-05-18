@@ -62,7 +62,7 @@ The `/code/` folder contains Python scripts for:
 
 This paper is part of a series on linear Diophantine representation systems with p ≡ 1 (mod q):
 
-- **(19,9)-system:** A₀ = dr(N) — [https://doi.org/10.5281/zenodo.19474707](https://doi.org/10.5281/zenodo.19474707)
+- **(19,9)-system:** https://doi.org/10.5281/zenodo.20044995
 - **(25,12)-system:** A₀ = N mod 12 — this repository
 
 Both systems share the same algebraic core. The (19,9)-system uses the digital root; the (25,12)-system uses the clock.
