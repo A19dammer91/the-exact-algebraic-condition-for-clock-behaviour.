@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "N = 25A + 12B | The Clock Structure | p ≡ 1 (mod q)"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: el Issaoui
+    given-names: Bilal
+    affiliation: Independent Researcher, Amsterdam
+year: 2026
+doi: 10.5281/zenodo.20273909
+url: https://doi.org/10.5281/zenodo.20273909
+repository-code: https://github.com/A19dammer91/the-exact-algebraic-condition-for-clock-behaviour
+abstract: >
+  This paper analyses the linear Diophantine system N = 25A + 12B,
+  where p ≡ 1 (mod q) — the exact algebraic condition for clock behaviour.
+  The minimal A-coordinate is directly determined as A₀ = N mod 12,
+  without search or iteration. An exact O(1) counting formula R(N) is
+  established and compared systematically with the (19,9)-system.
+keywords:
+  - linear Diophantine equations
+  - clock structure
+  - minimal representation
+  - counting formula
+  - p ≡ 1 (mod q)
+  - Frobenius boundary
+license: MIT
+
+
